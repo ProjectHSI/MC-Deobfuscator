@@ -1,0 +1,23 @@
+{
+  "name": "mc-deobfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/bin/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectHSI/MC-Deobfuscator.git"
+  },
+  "author": "[Project HSI]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectHSI/MC-Deobfuscator/issues"
+  },
+  "homepage": "https://github.com/ProjectHSI/MC-Deobfuscator#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "typescript": "^4.7.3"
+  }
+}
